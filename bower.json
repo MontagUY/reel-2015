@@ -1,0 +1,30 @@
+{
+  "name": "Reel 2015",
+  "version": "1.0",
+  "authors": [
+    "Ignacio Toledo <ignacio@montag.uy>"
+  ],
+  "description": "Reel website MONTAG 2015",
+  "main": "index.html",
+  "keywords": [
+    "montag",
+    "web-development",
+    "design"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skeleton": "~2.0.4",
+    "normalize-css": "~3.0.3",
+    "tweenlite": "~1.11.5",
+    "gsap": "greensock#~1.18.1"
+  }
+}
